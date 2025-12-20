@@ -32,7 +32,7 @@ surname = "Mızrak"
 #print("Adım: " , name," \nSoyisim: ",surname)
 # 1.YOL
 print("Adım: " , name,"Soyisim: ",surname)
-# 2. yol
+# 2. yol (%s : String ,%d: decimal(Tam Sayılar) %f:float(Virgüllü Sayılar))
 print("Adım: %s Soyisim: %s:"%(name,surname))
 # 3.YOL
 print(f"Adım: {name}, Soyisim: {surname}")
