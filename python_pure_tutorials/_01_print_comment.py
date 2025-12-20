@@ -24,3 +24,15 @@ print("""Merhabalar Python Öğreniyorum
 
 # ESCAPE /\
 print("""Merhabalar Python Öğreniyorum *** \n\tdünyasına hoşgeldiniz""")
+
+#Değişken İsimlendirmelerde
+name = "Hamit"
+surname = "Mızrak"
+
+#print("Adım: " , name," \nSoyisim: ",surname)
+# 1.YOL
+print("Adım: " , name,"Soyisim: ",surname)
+# 2. yol
+print("Adım: %s Soyisim: %s:"%(name,surname))
+# 3.YOL
+print(f"Adım: {name}, Soyisim: {surname}")
