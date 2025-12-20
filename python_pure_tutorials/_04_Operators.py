@@ -131,3 +131,17 @@ print("Bölme: ", (number1/number2))  # Bölüm: virgüllü kalan
 print("Bölme: ", (number1//number2)) # Bölüm: tam sayılı kalan
 print("Kalan: ", (number1%number2)) # mod
 print("üslü: ", (number1**number2)) # mod
+
+#####################################################################################
+#### LOgic İşlemler ####################################################
+
+print("Eşit mi"(number1==number2))
+print("Eşit değil mi"(number1!=number2))
+print("Büyük mü"(number1>number2))
+print("Büyük Eşit mi"(number1>=number2))
+print("Küçük mü"(number1<number2))
+print("Küçük Eşit mi"(number1<=number2))
+
+# && = VE
+# || = VEYA
+# !  = DEĞİL
